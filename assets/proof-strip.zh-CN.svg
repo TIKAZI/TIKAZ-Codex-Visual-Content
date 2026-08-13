@@ -1,0 +1,9 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
+<title id="proof-title">5: 1 个编排器与 4 个内容专项 Skill. 2: 文章隐喻与物流科普信息图体系. 1: 每项资产由一种视觉身份和一张 Shot Card 负责. 6: 标签、事实、替代文本、可读性、授权与署名</title>
+<style>
+.value { fill: #F472B6; font: 750 46px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+@media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
+</style>
+<g class="proof" aria-label="1 个编排器与 4 个内容专项 Skill"><text class="value" x="150" y="70" text-anchor="middle">5</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">可安装 Skill</div></foreignObject></g><g class="proof" aria-label="文章隐喻与物流科普信息图体系"><text class="value" x="450" y="70" text-anchor="middle">2</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">独立视觉身份</div></foreignObject></g><g class="proof" aria-label="每项资产由一种视觉身份和一张 Shot Card 负责"><text class="value" x="750" y="70" text-anchor="middle">1</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">每项资产单一责任人</div></foreignObject></g><g class="proof" aria-label="标签、事实、替代文本、可读性、授权与署名"><text class="value" x="1050" y="70" text-anchor="middle">6</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">发布证据字段</div></foreignObject></g>
+</svg>

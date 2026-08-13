@@ -7,14 +7,7 @@
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Visual-Content/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Visual-Content/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.8.0-F472B6.svg" alt="0.8.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all seven TIKAZ AI Skills for Codex suites</a></p>
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="One orchestrator and four focused content specialists"><h3>5</h3><sub>Installable Skills</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Article metaphor and logistics explainer systems"><h3>2</h3><sub>Visual identities</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="One visual identity and one shot card own each asset"><h3>1</h3><sub>Owner per asset</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Labels, claims, alt text, legibility, license, and attribution"><h3>6</h3><sub>Publishing evidence fields</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.svg" alt="Four verified core advantages" width="100%" /></p>
 
 ---
 
