@@ -31,6 +31,16 @@ Clone or download this repository, then copy the repository folder into the Skil
 git clone https://github.com/TIKAZI/TIKAZ-Codex-Visual-Content.git
 ```
 
+## 🧩 Use one Skill independently
+
+Every Skill below has its own promise, installation command, example, execution contract, limits, and bilingual project page:
+
+- [`concise-writing-editor`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/concise-writing-editor/index.html)
+- [`legal-free-music`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/legal-free-music/index.html)
+- [`visual-content`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/visual-content/index.html)
+- [`xiaohei-article-illustrator`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/xiaohei-article-illustrator/index.html)
+- [`zhuge-logistics-illustrator`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/zhuge-logistics-illustrator/index.html)
+
 ## 🚀 Try it
 
 ```text
