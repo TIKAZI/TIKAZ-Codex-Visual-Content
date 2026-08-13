@@ -9,10 +9,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="One orchestrator and four focused content specialists"><h3>5</h3><sub>Installable Skills</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Article metaphor and logistics explainer systems"><h3>2</h3><sub>Visual identities</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="One visual identity and one shot card own each asset"><h3>1</h3><sub>Owner per asset</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Labels, claims, alt text, legibility, license, and attribution"><h3>6</h3><sub>Publishing evidence fields</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="One orchestrator and four focused content specialists"><h3>5</h3><sub>Installable Skills</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Article metaphor and logistics explainer systems"><h3>2</h3><sub>Visual identities</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="One visual identity and one shot card own each asset"><h3>1</h3><sub>Owner per asset</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Labels, claims, alt text, legibility, license, and attribution"><h3>6</h3><sub>Publishing evidence fields</sub></td>
 </tr>
 </table>
 

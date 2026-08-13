@@ -11,10 +11,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="1 个编排器与 4 个内容专项 Skill"><h3>5</h3><sub>可安装 Skill</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="文章隐喻与物流科普信息图体系"><h3>2</h3><sub>独立视觉身份</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="每项资产由一种视觉身份和一张 Shot Card 负责"><h3>1</h3><sub>每项资产单一责任人</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="标签、事实、替代文本、可读性、授权与署名"><h3>6</h3><sub>发布证据字段</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="1 个编排器与 4 个内容专项 Skill"><h3>5</h3><sub>可安装 Skill</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="文章隐喻与物流科普信息图体系"><h3>2</h3><sub>独立视觉身份</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="每项资产由一种视觉身份和一张 Shot Card 负责"><h3>1</h3><sub>每项资产单一责任人</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="标签、事实、替代文本、可读性、授权与署名"><h3>6</h3><sub>发布证据字段</sub></td>
 </tr>
 </table>
 
